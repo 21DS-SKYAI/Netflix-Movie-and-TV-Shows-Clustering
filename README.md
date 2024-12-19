@@ -37,7 +37,7 @@ Use K Means and Agglomerative Hierarchical clustering algorithms to cluster the 
 A content based recommender system was built using the similarity matrix obtained after using cosine similarity. This recommender system will display 10 recommendations to the user based on the type of movie/show they watched.
 
 # Conclusion
-In this project, we worked on a text clustering problem where we had to classify/group the Netflix shows into certain clusters such that the shows within a cluster are
+In this project, I worked on a text clustering problem where we had to classify/group the Netflix shows into certain clusters such that the shows within a cluster are
 similar to each other and the shows in different clusters are dissimilar to each other.
 *   The data contained about 7787 records, and 11 attributes.
 We began by dealing with the dataset's missing values and doing exploratory data analysis (EDA).

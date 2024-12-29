@@ -4,7 +4,7 @@ ML/Unsupervised(Clustering, Content Based Recommendation System)
 ![NetflixIntroGIF](https://user-images.githubusercontent.com/99022806/216792109-d84b661a-4f28-42c0-88d3-20217c88f458.gif)
 
 # Problem Statement
-Netflix is the world's largest online streaming service provider, with over 220 million subscribers as of 2022. It is crucial that they effectively cluster the shows that are hosted on their platform in order to enhance the user experience, thereby preventing subscriber churn.
+Netflix is the world's largest online streaming service provider, with over 282 million subscribers as of 2024. It is crucial that they effectively cluster the shows that are hosted on their platform in order to enhance the user experience, thereby preventing subscriber churn.
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service's number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
